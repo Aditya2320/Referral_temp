@@ -1,7 +1,9 @@
 # Referral_temp
 
 Referral_template
+
 Template which I followed for asking referrals to people on LinkedIn .
+
 "Hi { name of the person }
 
 Hope you are doing well . Recently I came across an opening in { company name } for { role } for { year of graduation } grads .
